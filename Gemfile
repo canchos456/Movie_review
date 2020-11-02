@@ -7,6 +7,7 @@ gem "paperclip", "~> 6.0.0"
 gem 'aws-sdk', '~> 2.3'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
+gem 'searchkick'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
 # Use sqlite3 as the database for Active Record
